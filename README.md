@@ -1,6 +1,6 @@
 # 🛳️ Winner of Most Creative Implementation @ Code Clash UofT Winter 2026
 
-**gervigreind** (Team Name) is an 🤖 **Autonomous AI bot** built for the **Code Clash: Battleship Challenge** at the **University of Toronto**. This project highlights **algorithmic strategy design**, **robust systems programming**, and **competition-grade AI engineering** under strict real-time constraints of 10 hours.
+**Nautica**, by **gervigreind** (Team Name), is an 🤖 **Autonomous AI bot** built for the **Code Clash: Battleship Challenge** at the **University of Toronto**. This project highlights **algorithmic strategy design**, **robust systems programming**, and **competition-grade AI engineering** under strict real-time constraints of 10 hours.
 
 ---
 
