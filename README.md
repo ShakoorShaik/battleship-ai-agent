@@ -17,6 +17,8 @@ The bot autonomously selects abilities, places ships, and executes combat decisi
 
 ---
 
+![Combat Decision Algorithm](docs/battleship-algorithm.svg)
+
 
 ## AI Strategy
 
